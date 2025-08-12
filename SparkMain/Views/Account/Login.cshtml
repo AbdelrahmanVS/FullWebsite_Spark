@@ -1,0 +1,80 @@
+﻿@using SparkMain.ViewModels
+@model LoginVM
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/login.css" asp-append-version="true" />
+
+<section class="forms-section_Edited " id="log-sec" style="align-items:center ;justify-content:center">
+    <h1 class="section-title_Edited">Login </h1>
+    <div class="forms">
+        <div class="form-wrapper is-active">
+            <button type="button" class="switcher switcher-login">
+                Login
+                <span class="underline"></span>
+            </button>
+            <form asp-action="Login" method="post" class="form form-login">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div> 
+                <fieldset>
+                    <legend>Please, enter your UserName and Password for login.</legend>
+                    <div class="input-block">
+                        <label asp-for="UserName">UserName</label>
+                        <input asp-for="UserName" required>
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <div class="input-block">
+                        <label asp-for="Password">Password</label>
+                        <input asp-for="Password" required>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="mb-1 form-check d-flex align-items-center ">
+                        <label class="form-check-label">
+                            <input asp-for="RememberMe" class="form-check-input cursor" />@Html.DisplayNameFor(a => a.RememberMe)
+                        </label>
+                    </div>
+
+                    @*  Don't Have account ?  *@
+
+                    <div class="row">
+                        <div class="col-8">
+                            <a href="Register#log-sec" class="donthaveAccount">Don't have account?</a>
+                        </div>
+                    </div>
+                    <input type="submit" value="Login" class="btn-login" />
+
+                </fieldset>
+
+            </form>
+        </div>
+        <div class="form-wrapper">
+            <a href="Register#log-sec" style="text-decoration:none">
+                <button type="button" class="switcher switcher-signup">
+                Sign Up
+                <span class="underline"></span>
+                </button>
+            </a>
+            <form class="form form-signup" action="/Home">
+                <fieldset>
+                    <legend>Please, enter your email, password and password confirmation for sign up.</legend>
+                    <div class="input-block">
+                        <label for="signup-username">Username</label>
+                        <input id="signup-email" type="text" required>
+                    </div>
+                    <div class="input-block">
+                        <label for="signup-email">E-mail</label>
+                        <input id="signup-email" type="email" required>
+                    </div>
+                    <div class="input-block">
+                        <label for="signup-password">Password</label>
+                        <input id="signup-password" type="password" required>
+                    </div>
+                </fieldset>
+                <button type="submit" class="btn-signup">Sign Up</button>
+            </form>
+        </div>
+    </div>
+</section>
+        
+

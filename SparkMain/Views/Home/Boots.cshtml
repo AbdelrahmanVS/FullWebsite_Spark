@@ -1,0 +1,62 @@
+﻿@using System.Collections
+@model IEnumerable<Boot>
+
+
+
+<section class="py-5" id="boots">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <h1 style="text-align: center; margin-bottom: 70px">Boots</h1>
+
+
+                <div class="product-grid row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="col">
+                            <div class="product-item">
+                                <span class="badge bg-success position-absolute m-3">-30%</span>
+                                <figure>
+                                    <a href="@Url.Action("Details", "Boots", new { id = item.BootId })#ProductView" title="@item.BootName">
+                                        <img src="@Url.Content(item.ImagUrl)" alt="@item.BootName " class="img-fluid">
+                                    </a>
+                                </figure>
+                                <span>@item.BootName</span>
+                                <div class="d-flex justify-content-between">
+                                    <p><span class="text-dark">$@item.Price</span><del>$23</del><span class="text-success">-30%</span></p>
+                                    <span class="d-flex">
+                                        <svg width="18" height="18" class="text-warning">
+                                            <use xlink:href="#star-solid"></use>
+                                        </svg>
+                                        <svg width="18" height="18" class="text-warning">
+                                            <use xlink:href="#star-solid"></use>
+                                        </svg>
+                                        <svg width="18" height="18" class="text-warning">
+                                            <use xlink:href="#star-solid"></use>
+                                        </svg>
+                                        <svg width="18" height="18" class="text-warning">
+                                            <use xlink:href="#star-solid"></use>
+                                        </svg>
+                                        <svg width="18" height="18" class="text-warning">
+                                            <use xlink:href="#star-solid"></use>
+                                        </svg>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+
+
+
+                </div>
+                <!-- / product-grid -->
+
+            </div>
+        </div>
+    </div>
+</section>
+

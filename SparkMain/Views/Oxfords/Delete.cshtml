@@ -1,0 +1,24 @@
+﻿@model SparkMain.Models.Oxford
+
+<div class="product_page" id="ProductView">
+    <h2>Delete Oxford</h2>
+    <h4>@Model.BootName</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Size</dt>
+        <dd class="col-sm-10">@Model.Size</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@Model.Price</dd>
+
+        <dt class="col-sm-2">Image</dt>
+        <dd class="col-sm-10"><img src="@Model.ImagUrl" width="60" /></dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="OxfordId" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+
+</div>
+
