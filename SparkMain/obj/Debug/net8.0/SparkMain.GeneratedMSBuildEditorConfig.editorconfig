@@ -17,165 +17,157 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SparkMain
 build_property.RootNamespace = SparkMain
-build_property.ProjectDir = D:\test projects\TEST SPARK\SparkMain\SparkEcommerce\SparkMain\
+build_property.ProjectDir = D:\main projects\Spark\FullWebsite_Spark\SparkMain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\test projects\TEST SPARK\SparkMain\SparkEcommerce\SparkMain
+build_property.MSBuildProjectDirectory = D:\main projects\Spark\FullWebsite_Spark\SparkMain
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Account/Login.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Account/Register.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Boots/Create.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Boots/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Boots/Delete.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Boots/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Boots/Details.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Boots/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Boots/Edit.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Boots/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Boots/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Boots/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9vdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Home/Boots.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb290cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Home/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Home/Oxfords.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPeGZvcmRzLmNzaHRtbA==
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Home/Sports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Oxfords/Create.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Oxfords/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3hmb3Jkc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Oxfords/Delete.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Oxfords/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3hmb3Jkc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Oxfords/Details.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Oxfords/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3hmb3Jkc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Oxfords/Edit.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Oxfords/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3hmb3Jkc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Oxfords/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Oxfords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3hmb3Jkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Products/Create.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Products/Delete.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Products/Details.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Products/Edit.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Products/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Shared/Error.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Shared/_LoginPartail.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Shared/_LoginPartail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Sports/Create.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Sports/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Sports/Delete.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Sports/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Sports/Details.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Sports/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Sports/Edit.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Sports/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Sports/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Sports/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvcnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/TrendingSellings/Create.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/TrendingSellings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmdTZWxsaW5nc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/TrendingSellings/Delete.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/TrendingSellings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmdTZWxsaW5nc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/TrendingSellings/Details.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/TrendingSellings/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmdTZWxsaW5nc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/TrendingSellings/Edit.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/TrendingSellings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmdTZWxsaW5nc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/TrendingSellings/Index.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/TrendingSellings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmRpbmdTZWxsaW5nc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/_ViewImports.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/_ViewStart.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test projects/TEST SPARK/SparkMain/SparkEcommerce/SparkMain/Views/Shared/_Layout.cshtml]
+[D:/main projects/Spark/FullWebsite_Spark/SparkMain/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-geka0ktbuc

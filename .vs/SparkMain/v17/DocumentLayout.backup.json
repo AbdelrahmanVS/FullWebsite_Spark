@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\main projects\\Spark\\FullWebsite_Spark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\boots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\boots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\oxfords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\oxfords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\models\\searchresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\models\\searchresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\trendingsellings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\trendingsellings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\controllers\\bootscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\controllers\\bootscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\data\\sparkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\data\\sparkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\oxfords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\oxfords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\models\\boot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\models\\boot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\controllers\\trendingsellingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\controllers\\trendingsellingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\models\\bestandtrend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\models\\bestandtrend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|d:\\main projects\\spark\\fullwebsite_spark\\sparkmain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F5D35B2-B158-474A-8F44-592FC66D7D23}|SparkMain\\SparkMain.csproj|solutionrelative:sparkmain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SportsController.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\SportsController.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Controllers\\SportsController.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\SportsController.cs",
+              "RelativeToolTip": "SparkMain\\Controllers\\SportsController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:18:57.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BootsController.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\BootsController.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Controllers\\BootsController.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\BootsController.cs",
+              "RelativeToolTip": "SparkMain\\Controllers\\BootsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:17:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Boots\\Index.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Boots\\Index.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Boots\\Index.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Boots\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T12:00:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Sports\\Index.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Sports\\Index.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Sports\\Index.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Sports\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T11:56:06.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SparkMain\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:10:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BestAndTrend.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\BestAndTrend.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Models\\BestAndTrend.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\BestAndTrend.cs",
+              "RelativeToolTip": "SparkMain\\Models\\BestAndTrend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:09:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\wwwroot\\login.css",
+              "RelativeDocumentMoniker": "SparkMain\\wwwroot\\login.css",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\wwwroot\\login.css",
+              "RelativeToolTip": "SparkMain\\wwwroot\\login.css",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-14T22:22:48.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T22:21:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Models\\AppUser.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\AppUser.cs",
+              "RelativeToolTip": "SparkMain\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:20:02.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\appsettings.json",
+              "RelativeDocumentMoniker": "SparkMain\\appsettings.json",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\appsettings.json",
+              "RelativeToolTip": "SparkMain\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T22:19:33.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T08:50:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\TrendingSellings\\Details.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\TrendingSellings\\Details.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\TrendingSellings\\Details.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\TrendingSellings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T16:23:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Program.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Program.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Program.cs",
+              "RelativeToolTip": "SparkMain\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:18:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SparkMain\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:18:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Boot.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\Boot.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Models\\Boot.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\Boot.cs",
+              "RelativeToolTip": "SparkMain\\Models\\Boot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:35:57.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SparkContext.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Data\\SparkContext.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Data\\SparkContext.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Data\\SparkContext.cs",
+              "RelativeToolTip": "SparkMain\\Data\\SparkContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:18:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Oxfords\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Oxfords\\Edit.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Oxfords\\Edit.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Oxfords\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T11:57:27.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Oxfords\\Index.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Oxfords\\Index.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Oxfords\\Index.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Oxfords\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T22:01:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAowLUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T08:26:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchResultVM.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\SearchResultVM.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Models\\SearchResultVM.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Models\\SearchResultVM.cs",
+              "RelativeToolTip": "SparkMain\\Models\\SearchResultVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T09:06:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SparkMain\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SparkMain\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T22:07:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrendingSellingsController.cs",
+              "DocumentMoniker": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\TrendingSellingsController.cs",
+              "RelativeDocumentMoniker": "SparkMain\\Controllers\\TrendingSellingsController.cs",
+              "ToolTip": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\Controllers\\TrendingSellingsController.cs",
+              "RelativeToolTip": "SparkMain\\Controllers\\TrendingSellingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T22:08:18.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

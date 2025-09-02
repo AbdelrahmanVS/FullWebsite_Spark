@@ -13,10 +13,13 @@
 <div class="product_page" id="ProductView">
     <div class="product_page" id="ProductView">
         <h1>boots</h1>
-
-        <p>
-            <a asp-action="Create" class="btn btn-primary mb-3">+ Add Product</a>
-        </p>
+        @if(isAdmin)
+        {
+            <p>
+                <a asp-action="Create" class="btn btn-primary mb-3">+ Add Product</a>
+            </p>
+        }
+        
         <div class="product-grid row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
 
             @foreach (var item in Model)
@@ -81,45 +84,4 @@
         </div>
     </div>
 </div>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.BootName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Size)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ImagUrl)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.BootName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Size)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ImagUrl)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.BootId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.BootId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.BootId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+

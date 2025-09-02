@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparkMain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1508051bc6fbee5cd0d5e426f4f6f070edd34c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparkMain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparkMain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

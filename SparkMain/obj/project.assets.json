@@ -8204,11 +8204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test projects\\TEST SPARK\\SparkMain\\SparkEcommerce\\SparkMain\\SparkMain.csproj",
+      "projectUniqueName": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\SparkMain.csproj",
       "projectName": "SparkMain",
-      "projectPath": "D:\\test projects\\TEST SPARK\\SparkMain\\SparkEcommerce\\SparkMain\\SparkMain.csproj",
+      "projectPath": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\SparkMain.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\test projects\\TEST SPARK\\SparkMain\\SparkEcommerce\\SparkMain\\obj\\",
+      "outputPath": "D:\\main projects\\Spark\\FullWebsite_Spark\\SparkMain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

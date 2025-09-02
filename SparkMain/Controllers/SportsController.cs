@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using SparkMain.Models;
 
 namespace SparkMain.Controllers
 {
+    [Authorize]
     public class SportsController : Controller
     {
         private readonly SparkContext _context;
@@ -20,12 +22,14 @@ namespace SparkMain.Controllers
         }
 
         // GET: Sports
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Sports.ToListAsync());
         }
 
         // GET: Sports/Details/5
+        [AllowAnonymous]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -44,6 +48,8 @@ namespace SparkMain.Controllers
         }
 
         // GET: Sports/Create
+        [Authorize(Roles = "Admin")]
+
         public IActionResult Create()
         {
             return View();
@@ -66,6 +72,8 @@ namespace SparkMain.Controllers
         }
 
         // GET: Sports/Edit/5
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -86,6 +94,8 @@ namespace SparkMain.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Edit(int id, [Bind("SportId,SportName,Size,Price,ImagUrl")] Sport sport)
         {
             if (id != sport.SportId)
@@ -117,6 +127,8 @@ namespace SparkMain.Controllers
         }
 
         // GET: Sports/Delete/5
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -135,6 +147,8 @@ namespace SparkMain.Controllers
         }
 
         // POST: Sports/Delete/5
+        [Authorize(Roles = "Admin")]
+
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

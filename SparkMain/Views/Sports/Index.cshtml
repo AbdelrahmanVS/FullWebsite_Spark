@@ -1,5 +1,13 @@
 ﻿@model IEnumerable<SparkMain.Models.Sport>
 
+    @using Microsoft.AspNetCore.Identity
+@inject UserManager<AppUser> UserManager
+@inject SignInManager<AppUser> SignInManager
+
+@{
+    var isAdmin = User.IsInRole("Admin");
+}
+
 @{
     ViewData["Title"] = "SportDetails";
 }
@@ -8,10 +16,13 @@
 
 <div class="product_page" id="ProductView">
     <h1>Sports</h1>
+    @if (isAdmin)
+    {
+        <p>
+            <a asp-action="Create" class="btn btn-primary mb-3">+ Add Product</a>
+        </p>
+    }
 
-    <p>
-        <a asp-action="Create" class="btn btn-primary mb-3">+ Add Product</a>
-    </p>
     <div class="product-grid row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
 
         @foreach (var item in Model)
@@ -59,9 +70,13 @@
 
                     </div>
                     <div class="btnsFromMe">
-                        <a asp-action="Edit" asp-route-id="@item.SportId" class="btn Edit text-white ">Edit</a>
-                        <a asp-action="Details" asp-route-id="@item.SportId" class="btn Details text-white">Details</a>
-                        <a asp-action="Delete" asp-route-id="@item.SportId" class="btn Delete text-white ">Delete</a>
+                        @if (isAdmin)
+                        {
+                            <a asp-action="Edit" asp-route-id="@item.SportId" class="btn Edit text-white ">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.SportId" class="btn Details text-white">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.SportId" class="btn Delete text-white ">Delete</a>
+                        }
+                       
                     </div>
                 </div>
 
